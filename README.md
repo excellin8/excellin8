@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @excellin8<br>- 👀 I’m interested in engineerig<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on making project together <br> - 😄 Pronouns: transformer<br>- ⚡ Fun fact: idk<br>
+- 👋 Hi, I’m @excellin8<br>- 👀 I’m interested in engineerig<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on making project together <br>- ⚡ Fun fact: idk<br>
 
 
 ## 🌐 Socials:
